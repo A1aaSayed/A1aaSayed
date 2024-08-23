@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif?raw=true" alt="GitHub Banner" width="600" height="400"/>
+    <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="GitHub Banner" width="600" height="400"/>
 </p>
 
 ---

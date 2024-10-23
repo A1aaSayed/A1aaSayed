@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![dart](https://img.shields.io/badge/-Dart-E34F26?style=flat&logo=html5&logoColor=white)
+![dart](https://img.shields.io/badge/-Dart-E34F26?style=flat&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🧰 Frameworks and Libraries
@@ -47,7 +47,7 @@
 | [DEPI](https://depi.gov.eg/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Machine Learning Engineer | June 2024 - now |
 | [Supervised Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_arte_march_24_dr_geo-multi-set2_sem_rsa_gads_lg-all&campaignid=21092529272&adgroupid=156621904981&device=c&keyword=coursera%20machine%20learning&matchtype=p&network=g&devicemodel=&adposition=&creativeid=693270366211&hide_mobile_promo&gad_source=1&gclid=CjwKCAjw5qC2BhB8EiwAvqa41nTvnC3CdtcHOkKhqnn4yjwcy1ImFMYEdMMNmZgZw4DCHwVqm1luwRoCaYUQAvD_BwE) | Machine Learning Engineer | October 2023    |
 
-# Most Used Languages
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Most Used Languages </h1>
 
 ![Python](https://img.shields.io/badge/Python-66.45%25-blue)
 ![C++](https://img.shields.io/badge/C++-14.60%25-gray)
@@ -55,8 +55,8 @@
 ![HTML](https://img.shields.io/badge/HTML-7.29%25-orange)
 ![CSS](https://img.shields.io/badge/CSS-4.08%25-blue)
 
-## Contact me on
 
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Contact me on</h1>
 <div align="center">
     <table>
         <tr>

@@ -14,11 +14,11 @@
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> About</h1>
 
 - 👨‍🎓 I'm a computer engineering graduate from Beni Suef University, Egypt.
+- 💻 I am a self taught Machine Learning Developer and Flutter Developer
 - 💡 Interested in Data Science and Artificial Intelligence.
 - 🔍 Working on Deep Learning & Machine Learning.
-- 🌐 Learning about Computer Vision and Machine Learning stuff
+- 🌐 Learning about Computer Vision and Machine Learning.
 - 🌟 Enjoy solving problems and implement new solutions.
-- 🥇 Aiming to make a significant impact on a global scale.
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h1>
 
@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-E34F26?style=flat&logo=html5&logoColor=white)
+![dart](https://img.shields.io/badge/-Dart-E34F26?style=flat&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🧰 Frameworks and Libraries

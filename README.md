@@ -65,7 +65,7 @@
 
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Contact me on</h1>
-<!-- <div align="center">
+<div align="center">
     <table>
         <tr>
             <td><a href="https://github.com/A1aaSayed"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
@@ -73,10 +73,7 @@
             <td><a href="mailto:alaa02.sayed02@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
         </tr>
     </table>
-</div> -->
-[![GitHub](https://img.shields.io/badge/GitHub-A1aaSayed-black?style=for-the-badge&logo=github)](https://github.com/A1aaSayed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Sayed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/a1aasayed/)
-[![Gmail](https://img.shields.io/badge/Gmail-alaa02.sayed02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaa02.sayed02@gmail.com)
+</div>
 
 <div width="100%" align="center">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A1aaSayed&theme=transparent"/>

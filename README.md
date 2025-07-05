@@ -52,7 +52,7 @@
 
 | 🏢 Company                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 💼 Role                   | ⏰ Project     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | --------------- |
-| Freelance Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | ML Engineer - Developed an E-Learning System | [E-Learning]() |
+| Freelance Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | ML Engineer - Developed an E-Learning System | [E-Learning](https://github.com/A1aaSayed/AI_Projects/tree/main/E_Learning) |
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Most Used Languages </h1>
 
@@ -63,18 +63,21 @@
 
 [![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=A1aaSayed&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Contact Me</h1>
 
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Contact me on</h1>
-<div align="center">
-    <table>
-        <tr>
-            <td><a href="https://github.com/A1aaSayed"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-            <td><a href="https://www.linkedin.com/in/a1aasayed/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-            <td><a href="mailto:alaa02.sayed02@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
-        </tr>
-    </table>
-</div>
+<p align="center">
+  <a href="https://github.com/A1aaSayed">
+    <img src="https://img.shields.io/badge/GitHub-A1aaSayed-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/a1aasayed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alaa%20Sayed-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alaa02.sayed02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-alaa02.sayed02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
+---
 <div width="100%" align="center">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A1aaSayed&theme=transparent"/>
 </div>

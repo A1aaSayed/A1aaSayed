@@ -17,7 +17,7 @@
 - 💻 I am a self taught Machine Learning Developer and Flutter Developer
 - 💡 Interested in Data Science and Artificial Intelligence.
 - 🔍 Working on Deep Learning & Machine Learning.
-- 🌐 Learning about Computer Vision and Machine Learning.
+- 🌐 Learning about Computer Vision and NLP.
 - 🌟 Enjoy solving problems and implement new solutions.
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h1>

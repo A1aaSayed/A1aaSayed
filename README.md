@@ -54,14 +54,18 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | --------------- |
 | Freelance Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | ML Engineer - Developed an E-Learning System | [E-Learning](https://github.com/A1aaSayed/AI_Projects/tree/main/E_Learning) |
 
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Most Used Languages </h1>
+<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> GitHub Stats</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A1aaSayed&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A1aaSayed&show_icons=true&theme=transparent" alt="Alaa's GitHub Stats" />
+</p>
 
+<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Most Used Languages</h1>
 
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> GitHub Stats </h1>
-
-[![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=A1aaSayed&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1aaSayed&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+---
 
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Contact Me</h1>
 

@@ -75,10 +75,3 @@
     <img src="https://img.shields.io/badge/Gmail-alaa02.sayed02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
-<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> GitHub Summary Card</h1>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A1aaSayed&theme=transparent" alt="GitHub Summary Card" />
-</p>

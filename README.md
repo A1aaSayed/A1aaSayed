@@ -54,11 +54,6 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | --------------- |
 | Freelance Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | ML Engineer - Developed an E-Learning System | [E-Learning](https://github.com/A1aaSayed/AI_Projects/tree/main/E_Learning) |
 
-<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> GitHub Stats</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A1aaSayed&show_icons=true&theme=transparent" alt="Alaa's GitHub Stats" />
-</p>
 
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Most Used Languages</h1>
 
@@ -82,6 +77,8 @@
 </p>
 
 ---
-<div width="100%" align="center">
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A1aaSayed&theme=transparent"/>
-</div>
+<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> GitHub Summary Card</h1>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A1aaSayed&theme=transparent" alt="GitHub Summary Card" />
+</p>

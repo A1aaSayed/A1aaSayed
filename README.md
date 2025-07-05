@@ -57,7 +57,7 @@
 
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Most Used Languages</h1>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1aaSayed&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 ---
